@@ -1,4 +1,4 @@
-module go3
+module github.com/ykensuke/go3
 
 go 1.13
 
