@@ -4,6 +4,8 @@ import (
 	"fmt"
 )
 
-func main() {
-	fmt.Println("test")
+func printer(s string) {
+	fmt.Println("=========")
+	fmt.Println(s)
+	fmt.Println("=========")
 }
